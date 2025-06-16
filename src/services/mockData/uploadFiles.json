@@ -1,0 +1,57 @@
+[
+  {
+    "Id": 1,
+    "name": "presentation-slides.pdf",
+    "size": 2048000,
+    "type": "application/pdf",
+    "uploadProgress": 100,
+    "status": "completed",
+    "url": "https://cdn.dropzone.app/files/1/presentation-slides.pdf",
+    "thumbnailUrl": null,
+    "uploadedAt": "2024-01-15T10:30:00.000Z"
+  },
+  {
+    "Id": 2,
+    "name": "vacation-photo.jpg",
+    "size": 1536000,
+    "type": "image/jpeg",
+    "uploadProgress": 100,
+    "status": "completed",
+    "url": "https://cdn.dropzone.app/files/2/vacation-photo.jpg",
+    "thumbnailUrl": "https://cdn.dropzone.app/thumbnails/2.jpg",
+    "uploadedAt": "2024-01-15T14:22:00.000Z"
+  },
+  {
+    "Id": 3,
+    "name": "project-demo.mp4",
+    "size": 25600000,
+    "type": "video/mp4",
+    "uploadProgress": 100,
+    "status": "completed",
+    "url": "https://cdn.dropzone.app/files/3/project-demo.mp4",
+    "thumbnailUrl": null,
+    "uploadedAt": "2024-01-16T09:15:00.000Z"
+  },
+  {
+    "Id": 4,
+    "name": "financial-report.xlsx",
+    "size": 512000,
+    "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "uploadProgress": 100,
+    "status": "completed",
+    "url": "https://cdn.dropzone.app/files/4/financial-report.xlsx",
+    "thumbnailUrl": null,
+    "uploadedAt": "2024-01-16T16:45:00.000Z"
+  },
+  {
+    "Id": 5,
+    "name": "team-meeting-notes.docx",
+    "size": 128000,
+    "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "uploadProgress": 100,
+    "status": "completed",
+    "url": "https://cdn.dropzone.app/files/5/team-meeting-notes.docx",
+    "thumbnailUrl": null,
+    "uploadedAt": "2024-01-17T11:20:00.000Z"
+  }
+]

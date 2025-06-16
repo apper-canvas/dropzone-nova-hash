@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "fileId": 1,
+    "shortUrl": "https://drop.zone/abc123xy",
+    "createdAt": "2024-01-15T10:35:00.000Z",
+    "expiresAt": "2024-02-14T10:35:00.000Z"
+  },
+  {
+    "Id": 2,
+    "fileId": 2,
+    "shortUrl": "https://drop.zone/def456zw",
+    "createdAt": "2024-01-15T14:25:00.000Z",
+    "expiresAt": "2024-02-14T14:25:00.000Z"
+  },
+  {
+    "Id": 3,
+    "fileId": 3,
+    "shortUrl": "https://drop.zone/ghi789uv",
+    "createdAt": "2024-01-16T09:18:00.000Z",
+    "expiresAt": "2024-02-15T09:18:00.000Z"
+  }
+]
