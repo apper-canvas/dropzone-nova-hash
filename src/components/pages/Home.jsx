@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { toast } from 'react-toastify';
+import ApperIcon from '@/components/ApperIcon';
 import UploadSection from '@/components/organisms/UploadSection';
 import StatsSection from '@/components/organisms/StatsSection';
 import { uploadFileService } from '@/services';
